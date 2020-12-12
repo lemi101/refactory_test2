@@ -1,7 +1,7 @@
 # Deployment pingpong-app built in with node js
 
 ## Dockerize
-Proses dockerize menggunakan Dockerfile yang ada pada repositori ini, lalu dipush ke dockerhub [Link](https://hub.docker.com/repository/docker/lemi101/ping-pong).
+Proses dockerize menggunakan Dockerfile yang ada pada repositori ini, lalu dipush ke [Docker Hub](https://hub.docker.com/repository/docker/lemi101/ping-pong).
 Modifikasi terhadap aplikasi juga dilakukan (menambah .env dan .gitignore).
 
 ## Kubernetes
