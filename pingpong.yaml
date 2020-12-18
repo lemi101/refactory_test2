@@ -15,11 +15,10 @@ spec:
         app: ping-pong
     spec:
       containers:
-        - name: app
+        - name: ping-pong
           image: lemi101/ping-pong:1.0
           ports:
             - containerPort: 8080
-          imagePullPolicy: Always
 ---
 
 # Service
